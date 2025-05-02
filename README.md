@@ -9,8 +9,8 @@ The dataset contains 12 variables:
 1 output variable: wine quality, a score between 0 and 10 (based on sensory data).
 
 
-📂 Source: UCI Machine Learning Repository
-📄 File used: winequality-red.csv
+1. 📂 Source: UCI Machine Learning Repository
+2. 📄 File used: winequality-red.csv
 
 
 ## 🎯 Problem Statement
@@ -24,12 +24,12 @@ To explore how physicochemical properties of red wine affect its quality score a
 5. Are there patterns that differentiate high-quality wines from lower ones?
 
 ## 🔍 EDA Techniques Applied
-i) Descriptive Statistics
-ii) Univariate & Bivariate Analysis
-iii) Correlation Matrix and Heatmap
-iv) Boxplots, Histograms, and Pairplots
-v) Group-wise comparisons (e.g., alcohol vs. quality)
-vi) Outlier detection and insights
+1. Descriptive Statistics
+2. Univariate & Bivariate Analysis
+3. Correlation Matrix and Heatmap
+4. Boxplots, Histograms, and Pairplots
+5. Group-wise comparisons (e.g., alcohol vs. quality)
+6. Outlier detection and insights
 
 ## 📌 Key Insights
 1. Alcohol and sulphates show a strong positive correlation with wine quality.
@@ -44,8 +44,8 @@ vi) Outlier detection and insights
 
 🤝 Acknowledgments
 
-a. [Cortez et al., 2009] for providing the dataset.
-b. UCI Machine Learning Repository.
+1. [Cortez et al., 2009] for providing the dataset.
+2. UCI Machine Learning Repository.
 
 ---
 🧑‍💻 Developed by Aditya Jain (https://github.com/Adityajain8595)
