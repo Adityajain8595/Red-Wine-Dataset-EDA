@@ -43,9 +43,9 @@ vi) Outlier detection and insights
 2. Jupyter Notebook
 
 🤝 Acknowledgments
-[Cortez et al., 2009] for providing the dataset.
 
-UCI Machine Learning Repository.
+a. [Cortez et al., 2009] for providing the dataset.
+b. UCI Machine Learning Repository.
 
 ---
 🧑‍💻 Developed by Aditya Jain (https://github.com/Adityajain8595)
